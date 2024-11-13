@@ -6,5 +6,5 @@
       "savePath": "/src"
     }
   ],
-  "liveServer.settings.port": 5501
+  "liveSassCompile.settings.excludeList": ["/src/assets/code/**"]
 }
