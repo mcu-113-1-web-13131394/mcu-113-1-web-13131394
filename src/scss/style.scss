@@ -3,12 +3,13 @@
 @import "./home";
 @import "./_about";
 @import "./skill";
+@import "./contact";
 
 :root {
   --body-color: rgb(250, 250, 250);
   --logo-color: rgb(218, 70, 102);
 
-  --withe-color: rgb(255, 255, 255);
+  --white-color: rgb(255, 255, 255);
   --text-color: rgb(68, 68, 68);
 
   --first-color: rgb(110, 87, 224);
@@ -49,7 +50,6 @@ body {
 
   .section {
     padding-block: 6em;
-    min-height: 700px;
 
     .top-header {
       text-align: center;
